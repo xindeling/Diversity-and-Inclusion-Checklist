@@ -6,5 +6,6 @@
 
 module.exports = {
   /* Your site config here */
+  pathPrefix: "/Diversity-and-Inclusion-Checklist",
   plugins: [],
 }
