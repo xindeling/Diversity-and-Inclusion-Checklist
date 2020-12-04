@@ -6,6 +6,11 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: `Diversity and Inclusion Checklist`,
+    description: `A hands-on diversity and inclusion checklist for designers`,
+    author: `Xindeling Pan`,
+  },
   pathPrefix: "/Diversity-and-Inclusion-Checklist",
   plugins: [
     {
@@ -17,5 +22,7 @@ module.exports = {
         ],
       },
     },
+    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sass`,
   ],
 }
