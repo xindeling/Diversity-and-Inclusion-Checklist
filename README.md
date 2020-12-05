@@ -1,13 +1,12 @@
 # Diversity and Inclusion Checklist
 An actionable checklist that for critiquing the design on Diversity & Inclusion (D&I). This list will continue to evolve as we keep learning and practicing my own activism through design.
 
-<a href="https://xindeling.github.io/Diversity-and-Inclusion-Checklist/" target="_blank">See Checklist</a>
+[See Checklist](https://xindeling.github.io/Diversity-and-Inclusion-Checklist/)
 
 Read full blog post on Medium to learn about the background of this checklist
 
-> **Diversity is being invited to the party, inclusion is being asked to dance.**
-
-[Vernā Myers](https://www.vernamyers.com/about-verna/), cultural change catalyst
+> **"Diversity is being invited to the party, inclusion is being asked to dance.""**
+> [Vernā Myers](https://www.vernamyers.com/about-verna/), cultural change catalyst
 
 - **Build a diverse team/design community**
     - **Diversity factors**:
