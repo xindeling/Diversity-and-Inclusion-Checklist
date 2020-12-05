@@ -124,8 +124,8 @@ Reinforcing the mindset that we are not our users
     - [ ]  Photography
     - [ ]  Stock images
     - [ ]  Videos
-    - [ ]  
-**Watch-outs**
+    - [ ]  ...
+- **Watch-outs**
     - [ ]  Be mindful of color perception across cultures
     - [ ]  Optimize asset file size
 ## 9. Choose technology wisely
