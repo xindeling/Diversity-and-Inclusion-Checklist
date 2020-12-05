@@ -9,7 +9,7 @@ Read full blog post on Medium to learn about the background of this checklist
 > -- Vernā Myers, cultural change catalyst
 
 ## 1. Build a diverse team/design community
-    **Diversity factors**:
+    - **Diversity factors**:
         - [ ]  Ability
         - [ ]  Age
         - [ ]  Culture
@@ -22,13 +22,13 @@ Read full blog post on Medium to learn about the background of this checklist
         - [ ]  Religion
         - [ ]  Personality
         - [ ]  ...
-    **Inclusive team:**
+    - **Inclusive team:**
         - [ ]  Actively look for problems to solve to improve your team and their environment
         - [ ]  Empower underrepresented groups
         - [ ]  ...
 
 ## 2. Recruit research participants from a diverse background
-    **Diversity factors**:
+    - **Diversity factors**:
         Depending on the research objective
         - [ ]  Ability
         - [ ]  Age
@@ -47,7 +47,7 @@ Read full blog post on Medium to learn about the background of this checklist
         - [ ]  Values
         - [ ]  Year of Experience
         - [ ]  ...
-    **Other watch-outs**
+    - **Other watch-outs**
         - [ ]  Will the researcher/recruiter background have any impact on the participant's willingness to discuss the topic?
         - [ ]  Does the interview script contain any inappropriate or hard-to-understand language?
 
@@ -60,7 +60,7 @@ Read full blog post on Medium to learn about the background of this checklist
 
 ## 4. Optimize content to a language that speaks to everyone
     Always be concise & clear
-    **Internationalization and Localization**:
+    - **Internationalization and Localization**:
         - [ ]  Offer multi-language support
         - [ ]  Ensure multi-language support applies to all communication channels
         - [ ]  Avoid for culture-specific/geo-specific metaphor
@@ -68,19 +68,19 @@ Read full blog post on Medium to learn about the background of this checklist
         - [ ]  Accommodate the right-to-left reading pattern
         - [ ]  Color Usage
         - [ ]  ...
-    **Bias watch-outs**
+    - **Bias watch-outs**
         - [ ]  Avoid sexist language, including gender biased use of pronouns (he, she, etc) and nouns (use firefighter instead of fireman)
         - [ ]  Challenge ageist labels, use "older adult" rather than "senior citizen", or simply say "people"
         - [ ]  Give gender-neutral names to virtual assistants
         - [ ]  Offer choices when it comes to select voices for virtual assistants
         - [ ]  Use gender-neutral phrases in virtual assistants' responses, including chatbots. Unless the gender is specified
 ## 5. Make Diversity & Inclusive a design critique criteria
-    **D&I checkpoints**
+    - **D&I checkpoints**
         - [ ]  Business requirement
         - [ ]  Design critique
         - [ ]  Design principles
         - [ ]  Quality assurance testing
-    **Critique rubric (**from [Inclusive Design Principles](https://inclusivedesignprinciples.org/)**)**
+    - **Critique rubric (**from [Inclusive Design Principles](https://inclusivedesignprinciples.org/)**)**
         - [ ]  Provide comparable experience
         - [ ]  Consider situation
         - [ ]  Be consistent
@@ -91,7 +91,7 @@ Read full blog post on Medium to learn about the background of this checklist
 
 ## 6. Question assumptions and fight bias
     Reinforcing the mindset that we are not our users
-    **Bias watch-outs**
+    - **Bias watch-outs**
         - [ ]  Age bias
         - [ ]  Culture bias
         - [ ]  Disability bias
@@ -99,10 +99,10 @@ Read full blog post on Medium to learn about the background of this checklist
         - [ ]  ...
 
 ## 7. Design for accessibility
-    Check out [Equal Access Toolkit](https://www.ibm.com/able/toolkit/) from IBM
+    - Check out [Equal Access Toolkit](https://www.ibm.com/able/toolkit/) from IBM
 
 ## 8. Ensure all visual assets represent diversity
-    **Diversity factors**:
+    - **Diversity factors**:
         - [ ]  Ability
         - [ ]  Age
         - [ ]  Body type
@@ -114,7 +114,7 @@ Read full blog post on Medium to learn about the background of this checklist
         - [ ]  Region
         - [ ]  Religion
         - [ ]  ...
-    **Visual asset types**:
+    - **Visual asset types**:
         - [ ]  3D modeling
         - [ ]  Animation
         - [ ]  Data visualizations
@@ -134,7 +134,7 @@ Read full blog post on Medium to learn about the background of this checklist
     - [ ]  Evaluate ethical standards of the technology provider
     - [ ]  Assess source data bias when working with AI
     - [ ]  Identify [potential biases](https://msdesignstorage.blob.core.windows.net/microsoftdesign/inclusive/InclusiveDesign_InclusiveAI.pdf) that may be introduced when training the dataset
-    **Bias watch-outs**
+    - **Bias watch-outs**
         - [ ]  Dataset Bias
         - [ ]  Associations Bias
         - [ ]  Automation Bias
