@@ -9,47 +9,47 @@ Read full blog post on Medium to learn about the background of this checklist
 > -- Vernā Myers, cultural change catalyst
 
 ## 1. Build a diverse team/design community
-    - **Diversity factors**:
-        - [ ]  Ability
-        - [ ]  Age
-        - [ ]  Culture
-        - [ ]  Disability
-        - [ ]  Education
-        - [ ]  Ethnicity
-        - [ ]  Gender
-        - [ ]  Race
-        - [ ]  Region
-        - [ ]  Religion
-        - [ ]  Personality
-        - [ ]  ...
-    - **Inclusive team:**
-        - [ ]  Actively look for problems to solve to improve your team and their environment
-        - [ ]  Empower underrepresented groups
-        - [ ]  ...
+- **Diversity factors**:
+    - [ ]  Ability
+    - [ ]  Age
+    - [ ]  Culture
+    - [ ]  Disability
+    - [ ]  Education
+    - [ ]  Ethnicity
+    - [ ]  Gender
+    - [ ]  Race
+    - [ ]  Region
+    - [ ]  Religion
+    - [ ]  Personality
+    - [ ]  ...
+- **Inclusive team:**
+    - [ ]  Actively look for problems to solve to improve your team and their environment
+    - [ ]  Empower underrepresented groups
+    - [ ]  ...
 
 ## 2. Recruit research participants from a diverse background
-    - **Diversity factors**:
-        Depending on the research objective
-        - [ ]  Ability
-        - [ ]  Age
-        - [ ]  Culture
-        - [ ]  Disability
-        - [ ]  Education
-        - [ ]  Ethnicity
-        - [ ]  Family structure
-        - [ ]  Gender
-        - [ ]  Marital Status
-        - [ ]  Politics
-        - [ ]  Race
-        - [ ]  Region
-        - [ ]  Sexual orientation
-        - [ ]  Socio-economic differences
-        - [ ]  Values
-        - [ ]  Year of Experience
-        - [ ]  ...
-    - **Other watch-outs**
-        - [ ]  Will the researcher/recruiter background have any impact on the participant's willingness to discuss the topic?
-        - [ ]  Does the interview script contain any inappropriate or hard-to-understand language?
+**Diversity factors**:
+    Depending on the research objective
+    - [ ]  Ability
+    - [ ]  Age
+    - [ ]  Culture
+    - [ ]  Disability
+    - [ ]  Education
+    - [ ]  Ethnicity
+    - [ ]  Family structure
+    - [ ]  Gender
+    - [ ]  Marital Status
+    - [ ]  Politics
+    - [ ]  Race
+    - [ ]  Region
+    - [ ]  Sexual orientation
+    - [ ]  Socio-economic differences
+    - [ ]  Values
+    - [ ]  Year of Experience
+    - [ ]  ...
+**Other watch-outs**
+    - [ ]  Will the researcher/recruiter background have any impact on the participant's willingness to discuss the topic?
+    - [ ]  Does the interview script contain any inappropriate or hard-to-understand language?
 
 ## 3. Remove bias from Personas
     - [ ]  Does demographic information matter to the problem?
