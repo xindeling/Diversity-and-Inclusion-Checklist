@@ -21,9 +21,9 @@ export default function Layout({ children }) {
       </header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
+        © {new Date().getFullYear()}, Curated by
         {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <a className="link" href="https://github.com/xindeling" rel="noreferrer" target="_blank">Xindeling Pan</a>
       </footer>
     </div>
   )

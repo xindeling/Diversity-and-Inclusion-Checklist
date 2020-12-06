@@ -3,7 +3,23 @@
     "id": 1,
     "label": "checklist-1",
     "title": "Build a diverse team/design community",
-    "summary": "Summary goes here",
+    "summary": "If everyone in a group shares a similar background, you will likely come up with the same ideas and make the same mistakes. To create a solution rooted in inclusive design, you’ll need a diverse and inclusive team. A study from Boston Consulting Group reveals that companies with more diverse management teams reported 19% better innovation revenue. And a truly inclusive team requires effort to empower underrepresented groups.",
+    "references": [
+      {
+        "name": "Creativity, Inc",
+        "resourceurl": "https://www.creativityincbook.com/about/",
+        "author": "Ed Catmull",
+        "role": "Co-founder of Pixar",
+        "description": "Ed Catmull shared in detail how he created an inclusive culture at Pixar"
+      },
+      {
+        "name": "How to Implement Inclusive Design in Your Organization",
+        "resourceurl": "https://xd.adobe.com/ideas/perspectives/social-impact/how-to-implement-inclusive-design-in-your-organization/",
+        "author": "Matt May",
+        "role": "Head of Inclusive Design at Adobe",
+        "description": "Matt May wrote about how to practice inclusive design and inclusion in our working lives"
+      }
+    ],
     "content": [
       {
         "title": "Diversity factors",
@@ -51,7 +67,16 @@
     "id": 2,
     "label": "checklist-2",
     "title": "Recruit research participants from a diverse background",
-    "summary": "Summary goes here",
+    "summary": "Design is grounded in research findings and research must be inclusive. Feedback should be collected from a diverse group of participants. Even when creating a business that has a specific target audience like Hispanic Americans, consider other diversity factors such as age and socio-economic differences. One easy step to take is to be aware of the impact of the researcher’s identity and background since it could influence how comfortable our participants feel about discussing these topics.",
+    "references": [
+      {
+        "name": "Closing the Experience Gap",
+        "resourceurl": "https://airbnb.design/closing-the-experience-gap/",
+        "author": "Nanako Era",
+        "role": "Lead Experience Researcher at Airbnb",
+        "description": "Nanako Era talked about 3 ways to use research to build more inclusive products"
+      }
+    ],
     "content": [
       {
         "title": "Diversity factors",
@@ -123,7 +148,16 @@
     "id": 3,
     "label": "checklist-3",
     "title": "Remove bias from Personas",
-    "summary": "Summary goes here",
+    "summary": "When building a persona, we should focus on capturing information that will be directly relevant to the problem we’re solving, such as pain points and user needs. When the persona's demographics don’t matter to the solution, let’s challenge the bias and be inclusive in our selection of persona image and name. Make sure to choose diverse photos and give them names that represent various ethnicities and nationalities.",
+    "references": [
+      {
+        "name": "What makes an effective persona",
+        "resourceurl": "http://marketingadvisorynetwork.com/2016/02/04/what-makes-an-effective-persona/",
+        "author": "Samantha Stone",
+        "role": "Founder and CMO, The Marketing Advisory Network",
+        "description": "A benchmark study that helps create personas to meet, and even exceed, revenue and lead goals"
+      }
+    ],
     "content": [
       {
         "title": "Watch-outs",
@@ -151,7 +185,16 @@
     "id": 4,
     "label": "checklist-4",
     "title": "Optimize content to a language that speaks to everyone",
-    "summary": "Summary goes here",
+    "summary": "Communication is not just what you say, but also how you say it and how it’s heard. We should be mindful of the words and copy we used in our designs, from the way it’s written & spoken to the actual content itself. While maintaining the brand identity, consider using more standard and plain language, so that you are able to communicate effectively with more people.",
+    "references": [
+      {
+        "name": "Inclusive Language Guide",
+        "resourceurl": "https://www.usca.edu/diversity-initiatives/training-resources/guide-to-inclusive-language/inclusive-language-guide/file",
+        "author": "Department of Diversity Initiatives",
+        "role": "University of South Carolina Aiken",
+        "description": "The Department of Diversity Initiatives has created this guide to provide current and up-to-date inclusive language terminology."
+      }
+    ],
     "content": [
       {
         "title": "Internationalization and Localization",
@@ -207,8 +250,17 @@
   {
     "id": 5,
     "label": "checklist-5",
-    "title": "Make Diversity & Inclusive a design critique criteria",
-    "summary": "Summary goes here",
+    "title": "Make Diversity & Inclusion part of all design critique criteria",
+    "summary": "To ensure that D&I is included in the product development lifecycle in a sustainable way, we should begin adding D&I to business requirements, design critique criteria, and quality assurance (QA) testing. When a design language system exists, consider adding inclusivity as one of the design principles, to encourage practicing Diversity & Inclusion in design.",
+    "references": [
+      {
+        "name": "Inclusive Design Principles",
+        "resourceurl": "https://inclusivedesignprinciples.org/",
+        "author": "Paciello Group",
+        "role": "",
+        "description": "Inclusive Design Principles give anyone involved in the design and development of websites and applications a broad approach to inclusive design"
+      }
+    ],
     "content": [
       {
         "title": "D&I checkpoints",
@@ -259,7 +311,16 @@
     "id": 6,
     "label": "checklist-6",
     "title": "Question assumptions and fight bias",
-    "summary": "Reinforcing the mindset that we are not our users",
+    "summary": "We are not our users. This is a mindset that we need to keep reinforcing. Our brain is designed to automatically generate cognitive illusion and bias as a result of our understanding and assumptions of the world. We should keep challenging our assumptions throughout the design process and fight against the cognitive bias, unconscious bias in particular, that causes us to make irrational judgments and decisions.",
+    "references": [
+      {
+        "name": "Thinking, Fast and Slow",
+        "resourceurl": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow",
+        "author": "Daniel Kahneman",
+        "role": "Psychologist and corecipient of the Nobel Prize for Economics",
+        "description": "Daniel Kahneman offers practical and enlightening insights into how choices are made in both our business and our personal lives—and how we can use different techniques to guard against the mental glitches that often get us into trouble."
+      }
+    ],
     "content": [
       {
         "title": "Bias watch-outs",
@@ -284,14 +345,79 @@
     "id": 7,
     "label": "checklist-7",
     "title": "Design for accessibility",
-    "summary": "Check out IBM Toolkit",
-    "content": []
+    "summary": "To achieve inclusive design, we create accessible content through different techniques and tools. When designing for digital products, in particular, we should go beyond just enabling people who have hearing, visual, motor, or cognitive impairments to access. We should also think about other groups such as those using mobile devices, or those with slow network connections.",
+    "references": [
+      {
+        "name": "Equal Access Toolkit",
+        "resourceurl": "https://www.ibm.com/able/toolkit/design/",
+        "author": "IBM",
+        "role": "",
+        "description": "A comprehensive toolkit that provides thorough guidelines – from planning, to designing, to developing for accessibility."
+      },
+      {
+        "name": "Designing For Accessibility And Inclusion",
+        "resourceurl": "https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion",
+        "author": "Steven Lambert",
+        "role": "Senior Web Developer and Accessibility Specialist",
+        "description": "A closer look at the different lenses of accessibility through which you can refine your designs."
+      }
+    ],
+    "content": [
+      {
+        "title": "Accessibility Lenses",
+        "details": [
+          {
+            "label": "Audio"
+          },
+          {
+            "label": "Color"
+          },
+          {
+            "label": "Readability"
+          },
+          {
+            "label": "Keyboard"
+          },
+          {
+            "label": "Screen reader"
+          },
+          {
+            "label": "Video"
+          },
+          {
+            "label": "Images"
+          },
+          {
+            "label": "Order/Structure"
+          },
+          {
+            "label": "Performance"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 8,
     "label": "checklist-8",
     "title": "Ensure all visual assets represent diversity",
-    "summary": "Summary goes here",
+    "summary": "Representation matters. When creating visual assets for products that serve people, inclusivity should be a given. Representation doesn’t stop at race - culture, gender and disabilities should all be taken into consideration.",
+    "references": [
+      {
+        "name": "Your Face Here",
+        "resourceurl": "https://airbnb.design/your-face-here/",
+        "author": "Jennifer Hom",
+        "role": "Head of Illustration at Airbnb",
+        "description": "Guidelines to create illustration for a more inclusive visual identity"
+      },
+      {
+        "name": "How to prevent misinformation in data visualization",
+        "resourceurl": "https://towardsdatascience.com/how-to-prevent-misinformation-in-data-visualization-1521a96e6431",
+        "author": "Claire Genoux",
+        "role": "Data Analyst",
+        "description": "Techniques can be used to prevent biased view in data visualization"
+      }
+    ],
     "content": [
       {
         "title": "Diversity factors",
@@ -374,7 +500,16 @@
     "id": 9,
     "label": "checklist-9",
     "title": "Choose technology wisely",
-    "summary": "Summary goes here",
+    "summary": "Design and technology are closely intertwined. Modern design relies heavily on technology to elevate the user experience.  To avoid building a racist search engine or biased virtual reality simulation, we need to spend time evaluating emerging technology before introducing it to the design.",
+    "references": [
+      {
+        "name": "In Pursuit of Inclusive AI",
+        "resourceurl": "https://msdesignstorage.blob.core.windows.net/microsoftdesign/inclusive/InclusiveDesign_InclusiveAI.pdf",
+        "author": "Microsoft",
+        "role": "",
+        "description": "A guide that breaks down AI bias into distinct categories so product creators can identify issues early on, anticipate future problems, and make better decisions along the way"
+      }
+    ],
     "content": [
       {
         "title": "Preliminary work",
@@ -423,6 +558,24 @@
     "label": "checklist-10",
     "title": "Be curious and diversify our standards of beauty",
     "summary": "Accept the difference and gain knowledge about the beliefs, desires, intentions, goals, preferences, emotions, and thoughts of other people.",
-    "content": []
+    "references": [
+      {
+        "name": "How To Be An Antiracis",
+        "resourceurl": "https://www.ibramxkendi.com/how-to-be-an-antiracist-1f",
+        "author": "Ibram X. Kendi",
+        "role": "Historians and leading antiracist scholars",
+        "description": "Kendi wrote about what an antiracist society might look like and how we can play an active role in building it."
+      }
+    ],
+    "content": [
+      {
+        "title": "quote",
+        "details": [
+          {
+            "label": "To be an antiracist is to diversify our standards of beauty like our standards of culture or intelligence, to see beauty equally in all skin colors, broad and thin noses, kinky and straight hair, light and dark eyes"
+          }
+        ]
+      }
+    ]
   }
 ]

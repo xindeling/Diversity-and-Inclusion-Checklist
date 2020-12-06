@@ -15,19 +15,20 @@ class Checkbox extends Component {
   render() {
     let details = this.props.details;
     details.sort((a, b) => a.label.localeCompare(b.label))
-    
+
     const content = details.sort().map((list,index) =>
-      <li key={index}>
-        <label htmlFor={list.label}>
-          <input name={list.label} id={list.label} type="checkbox"/>
-        {list.label}
+      <li className="checkbox-item" key={index}>
+        <label className ="checkbox" htmlFor={`${this.props.checklistNo}-${list.label}`}>
+          <input name={list.label} id={`${this.props.checklistNo}-${list.label}`} type="checkbox"/>
+          {list.label}
+          <span className="checkbox-indicator"></span>
         </label>
       </li>
     );
 
     return (
-      <ul>
-        <strong>{this.props.title}</strong>
+      <ul className="checkbox-group">
+        <span className="checkbox-title"><strong>{this.props.title}</strong></span>
         {content}
       </ul>
     );

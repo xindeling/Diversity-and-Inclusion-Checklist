@@ -83,12 +83,25 @@ export default function Checklist({children}) {
 */
 function getChecklistItems(data) {
   const checklistItemsArray = data.allChecklistItemsJson.edges.map((list,index) =>
-    <li key={index}>
-      <details open="">
-        <summary><strong>{list.node.id}. {list.node.title}</strong></summary>
-        <div>
-          <p>{list.node.summary}</p>
-          {list.node.content.map((checklist,index) => <Checkbox key={index} title={checklist.title} details={checklist.details}/>)}
+    <li className="checklist-item" key={index}>
+      <details className="accordion" open="">
+        <summary className="accordion-title"><strong>{list.node.title}</strong></summary>
+        <div className="accordion-content">
+          <p className="accordion-summary">{list.node.summary}</p>
+          {
+            list.node.content.map(function (checklist,index) {
+              if(checklist.title !== "quote"){
+                return <Checkbox key={index} checklistNo={list.node.label} title={checklist.title} details={checklist.details}/>
+              }else{
+                return <p className="checklist-quote"><q>{checklist.details[0].label}</q></p>
+              }
+            })
+          }
+          {/*
+          {
+            list.node.content.map((checklist,index) => <Checkbox key={index} checklistNo={list.node.label} title={checklist.title} details={checklist.details}/>)
+          }
+          */}
         </div>
       </details>
     </li>
