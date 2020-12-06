@@ -1,26 +1,7 @@
 import React, { Component } from 'react';
 import { StaticQuery, graphql } from "gatsby"
-/*
-export default ({ data }) => (
-  <div>
-    <h1>Products</h1>
-    {data.allProductsJson.edges.map(edge => <div>{edge.node.id} {edge.node.name}</div>)}
-  </div>
-)
 
-export const query = graphql`
-  query {
-    allProductsJson {
-      edges {
-        node {
-          name
-          id
-        }
-      }
-    }
-  }
-`
-*/
+import Checkbox from "./checkbox"
 
 class Checklist extends Component {
   //constructor(props) {
@@ -45,6 +26,7 @@ class Checklist extends Component {
                   id
                   label
                   title
+                  summary
                   content {
                     title
                     details {
@@ -102,7 +84,13 @@ export default function Checklist({children}) {
 function getChecklistItems(data) {
   const checklistItemsArray = data.allChecklistItemsJson.edges.map((list,index) =>
     <li key={index}>
-      {list.node.title}
+      <details open="">
+        <summary><strong>{list.node.id}. {list.node.title}</strong></summary>
+        <div>
+          <p>{list.node.summary}</p>
+          {list.node.content.map((checklist,index) => <Checkbox key={index} title={checklist.title} details={checklist.details}/>)}
+        </div>
+      </details>
     </li>
   );
   return checklistItemsArray;

@@ -3,6 +3,7 @@
     "id": 1,
     "label": "checklist-1",
     "title": "Build a diverse team/design community",
+    "summary": "Summary goes here",
     "content": [
       {
         "title": "Diversity factors",
@@ -50,6 +51,7 @@
     "id": 2,
     "label": "checklist-2",
     "title": "Recruit research participants from a diverse background",
+    "summary": "Summary goes here",
     "content": [
       {
         "title": "Diversity factors",
@@ -73,21 +75,45 @@
             "label": "Ethnicity"
           },
           {
+            "label": "Family structure"
+          },
+          {
             "label": "Gender"
           },
           {
-            "label": "Personality"
+            "label": "Marital Status"
+          },
+          {
+            "label": "Politics"
+          },
+          {
+            "label": "Race"
+          },
+          {
+            "label": "Region"
+          },
+          {
+            "label": "Sexual orientation"
+          },
+          {
+            "label": "Socio-economic differences"
+          },
+          {
+            "label": "Values"
+          },
+          {
+            "label": "Year of Experience"
           }
         ]
       },
       {
-        "title": "Inclusive team",
+        "title": "Watch-outs",
         "details": [
           {
-            "label": "Actively look for problems to solve to improve your team and their environment"
+            "label": "Will the researcher/recruiter background have any impact on the participant's willingness to discuss the topic?"
           },
           {
-            "label": "Empower underrepresented groups"
+            "label": "Does the interview script contain any inappropriate or hard-to-understand language?"
           }
         ]
       }
@@ -97,44 +123,25 @@
     "id": 3,
     "label": "checklist-3",
     "title": "Remove bias from Personas",
+    "summary": "Summary goes here",
     "content": [
       {
-        "title": "Diversity factors",
+        "title": "Watch-outs",
         "details": [
           {
-            "label": "Ability"
+            "label": "Does demographic information matter to the problem?"
           },
           {
-            "label": "Age"
+            "label": "Use underrepresented groups to represent persona when inequality exists(e.g. gender, race) in persona's profession"
           },
           {
-            "label": "Culture"
+            "label": "Choose a easy-to-read name"
           },
           {
-            "label": "Disability"
+            "label": "Consider names that represent various ethnicities and nationalities."
           },
           {
-            "label": "Education"
-          },
-          {
-            "label": "Ethnicity"
-          },
-          {
-            "label": "Gender"
-          },
-          {
-            "label": "Personality"
-          }
-        ]
-      },
-      {
-        "title": "Inclusive team",
-        "details": [
-          {
-            "label": "Actively look for problems to solve to improve your team and their environment"
-          },
-          {
-            "label": "Empower underrepresented groups"
+            "label": "Avoid names from your team members"
           }
         ]
       }
@@ -144,9 +151,10 @@
     "id": 4,
     "label": "checklist-4",
     "title": "Optimize content to a language that speaks to everyone",
+    "summary": "Summary goes here",
     "content": [
       {
-        "title": "Diversity factors",
+        "title": "Internationalization and Localization",
         "details": [
           {
             "label": "Ability"
@@ -175,13 +183,22 @@
         ]
       },
       {
-        "title": "Inclusive team",
+        "title": "Bias watch-outs",
         "details": [
           {
-            "label": "Actively look for problems to solve to improve your team and their environment"
+            "label": "Avoid sexist language, including gender biased use of pronouns (he, she, etc) and nouns (use firefighter instead of fireman)"
           },
           {
-            "label": "Empower underrepresented groups"
+            "label": "Challenge ageist labels, use 'older adult' rather than 'senior citizen', or simply say 'people'"
+          },
+          {
+            "label": "Give gender-neutral names to virtual assistants"
+          },
+          {
+            "label": "Offer choices when it comes to select voices for virtual assistants"
+          },
+          {
+            "label": "Use gender-neutral phrases in virtual assistants' responses, including chatbots. Unless the gender is specified"
           }
         ]
       }
@@ -191,44 +208,48 @@
     "id": 5,
     "label": "checklist-5",
     "title": "Make Diversity & Inclusive a design critique criteria",
+    "summary": "Summary goes here",
     "content": [
       {
-        "title": "Diversity factors",
+        "title": "D&I checkpoints",
         "details": [
           {
-            "label": "Ability"
+            "label": "Business requirement"
           },
           {
-            "label": "Age"
+            "label": "Design critique"
           },
           {
-            "label": "Culture"
+            "label": "Design principles"
           },
           {
-            "label": "Disability"
-          },
-          {
-            "label": "Education"
-          },
-          {
-            "label": "Ethnicity"
-          },
-          {
-            "label": "Gender"
-          },
-          {
-            "label": "Personality"
+            "label": "Quality assurance testing"
           }
         ]
       },
       {
-        "title": "Inclusive team",
+        "title": "Critique rubric",
         "details": [
           {
-            "label": "Actively look for problems to solve to improve your team and their environment"
+            "label": "Provide comparable experience"
           },
           {
-            "label": "Empower underrepresented groups"
+            "label": "Consider situation"
+          },
+          {
+            "label": "Be consistent"
+          },
+          {
+            "label": "Give control"
+          },
+          {
+            "label": "Offer choice"
+          },
+          {
+            "label": "Prioritize content"
+          },
+          {
+            "label": "Add value"
           }
         ]
       }
@@ -238,44 +259,22 @@
     "id": 6,
     "label": "checklist-6",
     "title": "Question assumptions and fight bias",
+    "summary": "Reinforcing the mindset that we are not our users",
     "content": [
       {
-        "title": "Diversity factors",
+        "title": "Bias watch-outs",
         "details": [
           {
-            "label": "Ability"
+            "label": "Age bias"
           },
           {
-            "label": "Age"
+            "label": "Culture bias"
           },
           {
-            "label": "Culture"
+            "label": "Disability bias"
           },
           {
-            "label": "Disability"
-          },
-          {
-            "label": "Education"
-          },
-          {
-            "label": "Ethnicity"
-          },
-          {
-            "label": "Gender"
-          },
-          {
-            "label": "Personality"
-          }
-        ]
-      },
-      {
-        "title": "Inclusive team",
-        "details": [
-          {
-            "label": "Actively look for problems to solve to improve your team and their environment"
-          },
-          {
-            "label": "Empower underrepresented groups"
+            "label": "Gender bias"
           }
         ]
       }
@@ -285,53 +284,14 @@
     "id": 7,
     "label": "checklist-7",
     "title": "Design for accessibility",
-    "content": [
-      {
-        "title": "Diversity factors",
-        "details": [
-          {
-            "label": "Ability"
-          },
-          {
-            "label": "Age"
-          },
-          {
-            "label": "Culture"
-          },
-          {
-            "label": "Disability"
-          },
-          {
-            "label": "Education"
-          },
-          {
-            "label": "Ethnicity"
-          },
-          {
-            "label": "Gender"
-          },
-          {
-            "label": "Personality"
-          }
-        ]
-      },
-      {
-        "title": "Inclusive team",
-        "details": [
-          {
-            "label": "Actively look for problems to solve to improve your team and their environment"
-          },
-          {
-            "label": "Empower underrepresented groups"
-          }
-        ]
-      }
-    ]
+    "summary": "Check out IBM Toolkit",
+    "content": []
   },
   {
     "id": 8,
     "label": "checklist-8",
     "title": "Ensure all visual assets represent diversity",
+    "summary": "Summary goes here",
     "content": [
       {
         "title": "Diversity factors",
@@ -343,13 +303,13 @@
             "label": "Age"
           },
           {
+            "label": "Body type"
+          },
+          {
             "label": "Culture"
           },
           {
             "label": "Disability"
-          },
-          {
-            "label": "Education"
           },
           {
             "label": "Ethnicity"
@@ -358,18 +318,53 @@
             "label": "Gender"
           },
           {
-            "label": "Personality"
+            "label": "Race"
+          },
+          {
+            "label": "Region"
+          },
+          {
+            "label": "Religion"
           }
         ]
       },
       {
-        "title": "Inclusive team",
+        "title": "Visual asset types",
         "details": [
           {
-            "label": "Actively look for problems to solve to improve your team and their environment"
+            "label": "3D modeling"
           },
           {
-            "label": "Empower underrepresented groups"
+            "label": "Animation"
+          },
+          {
+            "label": "Animation"
+          },
+          {
+            "label": "Emoji"
+          },
+          {
+            "label": "Icons"
+          },
+          {
+            "label": "Illustrations"
+          },
+          {
+            "label": "Stock images"
+          },
+          {
+            "label": "Videos"
+          }
+        ]
+      },
+      {
+        "title": "Watch-outs",
+        "details": [
+          {
+            "label": "Be mindful of color perception across cultures"
+          },
+          {
+            "label": "Optimize asset file size"
           }
         ]
       }
@@ -379,44 +374,45 @@
     "id": 9,
     "label": "checklist-9",
     "title": "Choose technology wisely",
+    "summary": "Summary goes here",
     "content": [
       {
-        "title": "Diversity factors",
+        "title": "Preliminary work",
         "details": [
           {
-            "label": "Ability"
+            "label": "Know your audience to inform platform/device decisions"
           },
           {
-            "label": "Age"
+            "label": "Research potential bias on the new technology"
           },
           {
-            "label": "Culture"
+            "label": "Evaluate ethical standards of the technology provider"
           },
           {
-            "label": "Disability"
+            "label": "Assess source data bias when working with AI"
           },
           {
-            "label": "Education"
-          },
-          {
-            "label": "Ethnicity"
-          },
-          {
-            "label": "Gender"
-          },
-          {
-            "label": "Personality"
+            "label": "Identify potential biases that may be introduced when training the dataset"
           }
         ]
       },
       {
-        "title": "Inclusive team",
+        "title": "Bias watch-outs",
         "details": [
           {
-            "label": "Actively look for problems to solve to improve your team and their environment"
+            "label": "Dataset Bias"
           },
           {
-            "label": "Empower underrepresented groups"
+            "label": "Automation Bias"
+          },
+          {
+            "label": "Interaction Bias"
+          },
+          {
+            "label": "Confirmation Bias"
+          },
+          {
+            "label": "Associations Bias"
           }
         ]
       }
@@ -426,47 +422,7 @@
     "id": 10,
     "label": "checklist-10",
     "title": "Be curious and diversify our standards of beauty",
-    "content": [
-      {
-        "title": "Diversity factors",
-        "details": [
-          {
-            "label": "Ability"
-          },
-          {
-            "label": "Age"
-          },
-          {
-            "label": "Culture"
-          },
-          {
-            "label": "Disability"
-          },
-          {
-            "label": "Education"
-          },
-          {
-            "label": "Ethnicity"
-          },
-          {
-            "label": "Gender"
-          },
-          {
-            "label": "Personality"
-          }
-        ]
-      },
-      {
-        "title": "Inclusive team",
-        "details": [
-          {
-            "label": "Actively look for problems to solve to improve your team and their environment"
-          },
-          {
-            "label": "Empower underrepresented groups"
-          }
-        ]
-      }
-    ]
+    "summary": "Accept the difference and gain knowledge about the beliefs, desires, intentions, goals, preferences, emotions, and thoughts of other people.",
+    "content": []
   }
 ]
