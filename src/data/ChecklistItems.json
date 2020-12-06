@@ -1,0 +1,472 @@
+[
+  {
+    "id": 1,
+    "label": "checklist-1",
+    "title": "Build a diverse team/design community",
+    "content": [
+      {
+        "title": "Diversity factors",
+        "details": [
+          {
+            "label": "Ability"
+          },
+          {
+            "label": "Age"
+          },
+          {
+            "label": "Culture"
+          },
+          {
+            "label": "Disability"
+          },
+          {
+            "label": "Education"
+          },
+          {
+            "label": "Ethnicity"
+          },
+          {
+            "label": "Gender"
+          },
+          {
+            "label": "Personality"
+          }
+        ]
+      },
+      {
+        "title": "Inclusive team",
+        "details": [
+          {
+            "label": "Actively look for problems to solve to improve your team and their environment"
+          },
+          {
+            "label": "Empower underrepresented groups"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "label": "checklist-2",
+    "title": "Recruit research participants from a diverse background",
+    "content": [
+      {
+        "title": "Diversity factors",
+        "details": [
+          {
+            "label": "Ability"
+          },
+          {
+            "label": "Age"
+          },
+          {
+            "label": "Culture"
+          },
+          {
+            "label": "Disability"
+          },
+          {
+            "label": "Education"
+          },
+          {
+            "label": "Ethnicity"
+          },
+          {
+            "label": "Gender"
+          },
+          {
+            "label": "Personality"
+          }
+        ]
+      },
+      {
+        "title": "Inclusive team",
+        "details": [
+          {
+            "label": "Actively look for problems to solve to improve your team and their environment"
+          },
+          {
+            "label": "Empower underrepresented groups"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "label": "checklist-3",
+    "title": "Remove bias from Personas",
+    "content": [
+      {
+        "title": "Diversity factors",
+        "details": [
+          {
+            "label": "Ability"
+          },
+          {
+            "label": "Age"
+          },
+          {
+            "label": "Culture"
+          },
+          {
+            "label": "Disability"
+          },
+          {
+            "label": "Education"
+          },
+          {
+            "label": "Ethnicity"
+          },
+          {
+            "label": "Gender"
+          },
+          {
+            "label": "Personality"
+          }
+        ]
+      },
+      {
+        "title": "Inclusive team",
+        "details": [
+          {
+            "label": "Actively look for problems to solve to improve your team and their environment"
+          },
+          {
+            "label": "Empower underrepresented groups"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "label": "checklist-4",
+    "title": "Optimize content to a language that speaks to everyone",
+    "content": [
+      {
+        "title": "Diversity factors",
+        "details": [
+          {
+            "label": "Ability"
+          },
+          {
+            "label": "Age"
+          },
+          {
+            "label": "Culture"
+          },
+          {
+            "label": "Disability"
+          },
+          {
+            "label": "Education"
+          },
+          {
+            "label": "Ethnicity"
+          },
+          {
+            "label": "Gender"
+          },
+          {
+            "label": "Personality"
+          }
+        ]
+      },
+      {
+        "title": "Inclusive team",
+        "details": [
+          {
+            "label": "Actively look for problems to solve to improve your team and their environment"
+          },
+          {
+            "label": "Empower underrepresented groups"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "label": "checklist-5",
+    "title": "Make Diversity & Inclusive a design critique criteria",
+    "content": [
+      {
+        "title": "Diversity factors",
+        "details": [
+          {
+            "label": "Ability"
+          },
+          {
+            "label": "Age"
+          },
+          {
+            "label": "Culture"
+          },
+          {
+            "label": "Disability"
+          },
+          {
+            "label": "Education"
+          },
+          {
+            "label": "Ethnicity"
+          },
+          {
+            "label": "Gender"
+          },
+          {
+            "label": "Personality"
+          }
+        ]
+      },
+      {
+        "title": "Inclusive team",
+        "details": [
+          {
+            "label": "Actively look for problems to solve to improve your team and their environment"
+          },
+          {
+            "label": "Empower underrepresented groups"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "label": "checklist-6",
+    "title": "Question assumptions and fight bias",
+    "content": [
+      {
+        "title": "Diversity factors",
+        "details": [
+          {
+            "label": "Ability"
+          },
+          {
+            "label": "Age"
+          },
+          {
+            "label": "Culture"
+          },
+          {
+            "label": "Disability"
+          },
+          {
+            "label": "Education"
+          },
+          {
+            "label": "Ethnicity"
+          },
+          {
+            "label": "Gender"
+          },
+          {
+            "label": "Personality"
+          }
+        ]
+      },
+      {
+        "title": "Inclusive team",
+        "details": [
+          {
+            "label": "Actively look for problems to solve to improve your team and their environment"
+          },
+          {
+            "label": "Empower underrepresented groups"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "label": "checklist-7",
+    "title": "Design for accessibility",
+    "content": [
+      {
+        "title": "Diversity factors",
+        "details": [
+          {
+            "label": "Ability"
+          },
+          {
+            "label": "Age"
+          },
+          {
+            "label": "Culture"
+          },
+          {
+            "label": "Disability"
+          },
+          {
+            "label": "Education"
+          },
+          {
+            "label": "Ethnicity"
+          },
+          {
+            "label": "Gender"
+          },
+          {
+            "label": "Personality"
+          }
+        ]
+      },
+      {
+        "title": "Inclusive team",
+        "details": [
+          {
+            "label": "Actively look for problems to solve to improve your team and their environment"
+          },
+          {
+            "label": "Empower underrepresented groups"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "label": "checklist-8",
+    "title": "Ensure all visual assets represent diversity",
+    "content": [
+      {
+        "title": "Diversity factors",
+        "details": [
+          {
+            "label": "Ability"
+          },
+          {
+            "label": "Age"
+          },
+          {
+            "label": "Culture"
+          },
+          {
+            "label": "Disability"
+          },
+          {
+            "label": "Education"
+          },
+          {
+            "label": "Ethnicity"
+          },
+          {
+            "label": "Gender"
+          },
+          {
+            "label": "Personality"
+          }
+        ]
+      },
+      {
+        "title": "Inclusive team",
+        "details": [
+          {
+            "label": "Actively look for problems to solve to improve your team and their environment"
+          },
+          {
+            "label": "Empower underrepresented groups"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "label": "checklist-9",
+    "title": "Choose technology wisely",
+    "content": [
+      {
+        "title": "Diversity factors",
+        "details": [
+          {
+            "label": "Ability"
+          },
+          {
+            "label": "Age"
+          },
+          {
+            "label": "Culture"
+          },
+          {
+            "label": "Disability"
+          },
+          {
+            "label": "Education"
+          },
+          {
+            "label": "Ethnicity"
+          },
+          {
+            "label": "Gender"
+          },
+          {
+            "label": "Personality"
+          }
+        ]
+      },
+      {
+        "title": "Inclusive team",
+        "details": [
+          {
+            "label": "Actively look for problems to solve to improve your team and their environment"
+          },
+          {
+            "label": "Empower underrepresented groups"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "label": "checklist-10",
+    "title": "Be curious and diversify our standards of beauty",
+    "content": [
+      {
+        "title": "Diversity factors",
+        "details": [
+          {
+            "label": "Ability"
+          },
+          {
+            "label": "Age"
+          },
+          {
+            "label": "Culture"
+          },
+          {
+            "label": "Disability"
+          },
+          {
+            "label": "Education"
+          },
+          {
+            "label": "Ethnicity"
+          },
+          {
+            "label": "Gender"
+          },
+          {
+            "label": "Personality"
+          }
+        ]
+      },
+      {
+        "title": "Inclusive team",
+        "details": [
+          {
+            "label": "Actively look for problems to solve to improve your team and their environment"
+          },
+          {
+            "label": "Empower underrepresented groups"
+          }
+        ]
+      }
+    ]
+  }
+]

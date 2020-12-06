@@ -7,12 +7,21 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Diversity and Inclusion Checklist`,
+    title: `Diversity & Inclusion Checklist`,
     description: `A hands-on diversity and inclusion checklist for designers`,
     author: `Xindeling Pan`,
   },
   pathPrefix: "/Diversity-and-Inclusion-Checklist",
   plugins: [
+    `gatsby-transformer-json`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `products`,
+        path: `${__dirname}/src/data/`,
+      },
+    },
+    `gatsby-transformer-remark`,
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
