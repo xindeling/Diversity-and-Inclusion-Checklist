@@ -1,6 +1,4 @@
-
-@import './global', './home', './about';
-
+/* Home */
 ul{
   list-style-type:none;
   &.checklist{
@@ -29,11 +27,6 @@ ul{
 
 @media only screen
   and (min-device-width: 48rem){
-    .subheading{
-      margin: 0em auto 3em auto;
-      font-size: 1.2rem;
-      max-width: 700px;
-    }
     .reference-item{
       display: inline-block;
     }
@@ -47,7 +40,6 @@ ul{
       }
     }
 }
-
 
 .accordion{
   padding: 0 0;

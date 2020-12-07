@@ -3,7 +3,7 @@
     "id": 1,
     "label": "checklist-1",
     "title": "Build a diverse team/design community",
-    "summary": "If everyone in a group shares a similar background, you will likely come up with the same ideas and make the same mistakes. To create a solution rooted in inclusive design, you’ll need a diverse and inclusive team. A study from Boston Consulting Group reveals that companies with more diverse management teams reported 19% better innovation revenue. And a truly inclusive team requires effort to empower underrepresented groups.",
+    "summary": "If everyone in a group shares a similar background, you will likely come up with the same ideas and make the same mistakes. To create a solution rooted in inclusive design, you’ll need a diverse and inclusive team. Research has shown that decisions made and executed by diverse teams delivered 60% better results. And a truly inclusive team requires effort to empower underrepresented groups.",
     "references": [
       {
         "name": "Creativity, Inc",
@@ -23,6 +23,7 @@
     "content": [
       {
         "title": "Diversity factors",
+        "length": "short",
         "details": [
           {
             "label": "Ability"
@@ -52,6 +53,7 @@
       },
       {
         "title": "Inclusive team",
+        "length": "long",
         "details": [
           {
             "label": "Actively look for problems to solve to improve your team and their environment"
@@ -80,6 +82,7 @@
     "content": [
       {
         "title": "Diversity factors",
+        "length": "short",
         "details": [
           {
             "label": "Ability"
@@ -133,6 +136,7 @@
       },
       {
         "title": "Watch-outs",
+        "length": "long",
         "details": [
           {
             "label": "Will the researcher/recruiter background have any impact on the participant's willingness to discuss the topic?"
@@ -161,6 +165,7 @@
     "content": [
       {
         "title": "Watch-outs",
+        "length": "long",
         "details": [
           {
             "label": "Does demographic information matter to the problem?"
@@ -190,43 +195,39 @@
       {
         "name": "Inclusive Language Guide",
         "resourceurl": "https://www.usca.edu/diversity-initiatives/training-resources/guide-to-inclusive-language/inclusive-language-guide/file",
-        "author": "Department of Diversity Initiatives",
-        "role": "University of South Carolina Aiken",
+        "author": "University of South Carolina Aiken",
+        "role": "Department of Diversity Initiatives",
         "description": "The Department of Diversity Initiatives has created this guide to provide current and up-to-date inclusive language terminology."
       }
     ],
     "content": [
       {
         "title": "Internationalization and Localization",
+        "length": "long",
         "details": [
           {
-            "label": "Ability"
+            "label": "Offer multi-language support"
           },
           {
-            "label": "Age"
+            "label": "Ensure multi-language support applies to all communication channels "
           },
           {
-            "label": "Culture"
+            "label": "Avoid for culture-specific/geo-specific metaphor"
           },
           {
-            "label": "Disability"
+            "label": "Avoid jargons, idioms, and acronyms"
           },
           {
-            "label": "Education"
+            "label": "Accommodate the right-to-left reading pattern"
           },
           {
-            "label": "Ethnicity"
-          },
-          {
-            "label": "Gender"
-          },
-          {
-            "label": "Personality"
+            "label": "Color Usage"
           }
         ]
       },
       {
         "title": "Bias watch-outs",
+        "length": "long",
         "details": [
           {
             "label": "Avoid sexist language, including gender biased use of pronouns (he, she, etc) and nouns (use firefighter instead of fireman)"
@@ -259,14 +260,22 @@
         "author": "Paciello Group",
         "role": "",
         "description": "Inclusive Design Principles give anyone involved in the design and development of websites and applications a broad approach to inclusive design"
+      },
+      {
+        "name": "Empathy Prompts",
+        "resourceurl": "https://empathyprompts.net/",
+        "author": "Eric Bailey",
+        "role": "Inclusive design and a11y advocate.",
+        "description": "A tool that generates prompts for digital creators to consider when building products for others to use."
       }
     ],
     "content": [
       {
         "title": "D&I checkpoints",
+        "length": "short",
         "details": [
           {
-            "label": "Business requirement"
+            "label": "Business requirements"
           },
           {
             "label": "Design critique"
@@ -281,6 +290,7 @@
       },
       {
         "title": "Critique rubric",
+        "length": "short",
         "details": [
           {
             "label": "Provide comparable experience"
@@ -324,6 +334,7 @@
     "content": [
       {
         "title": "Bias watch-outs",
+        "length": "short",
         "details": [
           {
             "label": "Age bias"
@@ -365,6 +376,7 @@
     "content": [
       {
         "title": "Accessibility Lenses",
+        "length": "short",
         "details": [
           {
             "label": "Audio"
@@ -421,6 +433,7 @@
     "content": [
       {
         "title": "Diversity factors",
+        "length": "short",
         "details": [
           {
             "label": "Ability"
@@ -456,6 +469,7 @@
       },
       {
         "title": "Visual asset types",
+        "length": "short",
         "details": [
           {
             "label": "3D modeling"
@@ -485,6 +499,7 @@
       },
       {
         "title": "Watch-outs",
+        "length": "long",
         "details": [
           {
             "label": "Be mindful of color perception across cultures"
@@ -533,6 +548,7 @@
       },
       {
         "title": "Bias watch-outs",
+        "length": "short",
         "details": [
           {
             "label": "Dataset Bias"

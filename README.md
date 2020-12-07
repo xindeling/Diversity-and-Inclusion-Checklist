@@ -1,5 +1,5 @@
 # Diversity and Inclusion Checklist
-An actionable checklist that for critiquing the design on Diversity & Inclusion (D&I). This list will continue to evolve as we keep learning and practicing my own activism through design.
+An actionable checklist that for critiquing the design on Diversity & Inclusion (D&I). This list will continue to evolve as we keep learning and practicing activism through design.
 
 [See Checklist](https://xindeling.github.io/Diversity-and-Inclusion-Checklist/)
 

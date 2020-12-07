@@ -9,13 +9,6 @@ class Checklist extends Component {
   //}
 
   render() {
-    /*const content = data.map((list,index) =>
-      <li key={index}>
-        {list.title}
-      </li>
-    );
-*/
-
     return (
       <StaticQuery
         query={graphql`
@@ -27,8 +20,16 @@ class Checklist extends Component {
                   label
                   title
                   summary
+                  references {
+                    name
+                    resourceurl
+                    author
+                    role
+                    description
+                  }
                   content {
                     title
+                    length
                     details {
                       label
                     }
@@ -40,7 +41,7 @@ class Checklist extends Component {
         `}
         render={data =>(
           <>
-            <ul>{getChecklistItems(data)}</ul>
+            <ul className="checklist">{getChecklistItems(data)}</ul>
           </>
         )}
       />
@@ -51,36 +52,6 @@ class Checklist extends Component {
 
 export default Checklist;
 
-/*
-export default function Checklist({children}) {
-  const data = useStaticQuery(
-    graphql`
-      query ChecklistItemsQuery{
-        allChecklistItemsJson {
-          edges {
-            node {
-              id
-              label
-              title
-              content {
-                title
-                details {
-                  label
-                }
-              }
-            }
-          }
-        }
-      }
-    `
-  )
-
-  const lists => {}
-  return (
-    <p>{data.site.siteMetadata.title}</p>
-  );
-}
-*/
 function getChecklistItems(data) {
   const checklistItemsArray = data.allChecklistItemsJson.edges.map((list,index) =>
     <li className="checklist-item" key={index}>
@@ -91,17 +62,21 @@ function getChecklistItems(data) {
           {
             list.node.content.map(function (checklist,index) {
               if(checklist.title !== "quote"){
-                return <Checkbox key={index} checklistNo={list.node.label} title={checklist.title} details={checklist.details}/>
+                return <Checkbox key={index} checklistNo={list.node.label} title={checklist.title} length={checklist.length} details={checklist.details}/>
               }else{
-                return <p className="checklist-quote"><q>{checklist.details[0].label}</q></p>
+                return <p key={index} className="checklist-quote"><q>{checklist.details[0].label}</q></p>
               }
             })
           }
-          {/*
+          <p className="reference-label"><strong>Further readings:</strong></p>
+          <p className="reference-resources">
           {
-            list.node.content.map((checklist,index) => <Checkbox key={index} checklistNo={list.node.label} title={checklist.title} details={checklist.details}/>)
+            list.node.references.map((reference,index) =>
+                <span key={index} className="reference-item"><a className="link" href={reference.resourceurl} rel="noreferrer" target="_blank">{reference.name} </a> by <i>{reference.author}</i></span>
+            )
           }
-          */}
+          </p>
+
         </div>
       </details>
     </li>

@@ -2,26 +2,25 @@ import React from "react"
 import { Link } from "gatsby"
 
 const ListLink = props => (
-  <li style={{ display: `inline-block`, marginRight: `1rem` }}>
-    <Link to={props.to}>{props.children}</Link>
-  </li>
+  <Link className="link nav-link" to={props.to}>{props.children}</Link>
 )
 
 export default function Layout({ children }) {
   return (
     <div>
       <header >
-        <Link to="/" >
-          <h3>D&I</h3>
-        </Link>
-        <ul style={{ listStyle: `none`, float: `right` }}>
-          <ListLink to="/">Home</ListLink>
-          <ListLink to="/about/">About</ListLink>
-        </ul>
+        <nav>
+          <Link to="/" >
+            <h3>D<small>&</small>I</h3>
+          </Link>
+          <div className="nav-links"style={{ listStyle: `none`, float: `right` }}>
+            <ListLink to="/about/">About</ListLink>
+          </div>
+        </nav>
       </header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Curated by
+        Last updated on Dec 7, 2020 | Curated by
         {` `}
         <a className="link" href="https://github.com/xindeling" rel="noreferrer" target="_blank">Xindeling Pan</a>
       </footer>

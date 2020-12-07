@@ -1,0 +1,64 @@
+/* About */
+.container-about{
+  padding: 1em 1em;
+  border-top: 1px solid $primary-color;
+  ul{
+    padding-left: 0;
+  }
+}
+
+.section-title{
+  margin-bottom: 0.5em;
+}
+
+.section-title +p{
+  margin-top: 0;
+}
+
+.reference-list{
+  .reference-list-item{
+    display: block;
+    margin-top: 1em;
+  }
+}
+
+.figure-quote{
+  margin-top: 3em;
+  margin-bottom: 3em;
+  blockquote,
+  figcaption{
+    margin: 1em 0;
+  }
+  blockquote{
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    position: relative;
+  }
+
+  blockquote:before,
+  blockquote:after {
+  	position: absolute;
+  	color: $primary-color;
+  	font-size: 8rem;
+  	width: 3rem;
+  	height: 3rem;
+  }
+
+  blockquote:before {
+  	content: '“';
+  	left: -3.5rem;
+  	top: -4rem;
+  }
+
+  blockquote:after {
+  	content: '”';
+  	right: -3.5rem;
+  	bottom: 2rem;
+  }
+}
+
+@media screen and (min-width: 48rem) {
+  figcaption{
+    margin: 1em 1em;
+  }
+}
