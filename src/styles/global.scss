@@ -138,14 +138,20 @@ a.link.nav-link{
   }
 }
 
+a.link{
+  position: relative;
+}
+
 a.link::after {
   content: '';
   display: block;
   width: 0;
-  height: 5px;
-  margin-top: -.5em;
+  height: 0.2em;
+  bottom: 0.1em;
   background: darken($primary-color, 10%);
   transition: width .3s;
+  position: absolute;
+  z-index: -1;
 }
 
 a.link::before {
@@ -153,8 +159,9 @@ a.link::before {
   display: block;
   height: 1px;
   width: 100%;
-  margin-bottom: -1.1em;
+  bottom: 0.3em;
   background: darken($primary-color, 10%);
+  position: absolute;
 }
 
 a{
