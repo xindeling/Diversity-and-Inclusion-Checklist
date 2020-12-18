@@ -3,7 +3,7 @@ A practical guide for designers to help ensure Diversity & Inclusion (D&I) is bu
 
 [See Checklist](https://xindeling.github.io/Diversity-and-Inclusion-Checklist/)
 
-Read full blog post on Medium to learn about the background of this checklist
+Read full [blog post](https://medium.com/design-bootcamp/how-to-be-a-diversity-inclusion-activist-as-a-designer-45fd16e3f855) on Medium to learn about the background of this checklist.
 
 > **Diversity is being invited to the party, inclusion is being asked to dance.** \
 > -- Vernā Myers, cultural change catalyst

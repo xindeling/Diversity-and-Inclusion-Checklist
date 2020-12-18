@@ -22,7 +22,7 @@ export default function About() {
             </blockquote>
             <figcaption>— Vernā Myers, Cultural change catalyst</figcaption>
         </figure>
-        <p>To learn about the background of this project, please visit the blog post on Medium. Feedback and questions are welcome. You can submit a <a className="link" rel="noreferrer" href="https://github.com/xindeling/Diversity-and-Inclusion-Checklist" target="_blank">Github Issue</a> or contact via <a className="link" rel="noreferrer" href="https://forms.gle/J1oTDmXVkk6KZkft8" target="_blank">Google Form</a>.</p>
+        <p>To learn about the background of this project, please visit the <a className="link" rel="noreferrer" href="https://medium.com/design-bootcamp/how-to-be-a-diversity-inclusion-activist-as-a-designer-45fd16e3f855">blog post</a> on Medium. Feedback and questions are welcome. You can submit a <a className="link" rel="noreferrer" href="https://github.com/xindeling/Diversity-and-Inclusion-Checklist" target="_blank">Github Issue</a> or contact via <a className="link" rel="noreferrer" href="https://forms.gle/J1oTDmXVkk6KZkft8" target="_blank">Google Form</a>.</p>
       </div>
       <div className="container-about">
         <h3 className="section-title">Further Readings</h3>

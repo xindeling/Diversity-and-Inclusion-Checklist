@@ -15,9 +15,9 @@ export default function Home() {
         <meta name="description" content="A hands-on diversity and inclusion checklist for designers" />
         <meta name="author" content="Xindeling Pan" />
       </Helmet>
-      <Header headerText="Diversity & Inclusion Checklist" subTitle="How to be a Diversity & Inclusion activist, as a designer"/>
+      <Header headerText="Diversity & Inclusion Checklist" subTitle="A practical guide for inclusive design activist"/>
       <div className="subheading">
-        <p>A practical guide for designers to help ensure Diversity & Inclusion (D&I) is built into any future-state experience. This checklist consists of a list of diversity factors, tasks, and watch-outs that digital experience creators can apply and audit against product/service design work.</p>
+        <p>A list of tasks and watch-outs that can help digital experience creators design for diversity and inclusion. Designers alone won’t be able to fix all the social inequality, but it’s time for us to complete the shift from user-centered design to human-centered design.</p>
       </div>
       <Checklist />
     </Layout>
